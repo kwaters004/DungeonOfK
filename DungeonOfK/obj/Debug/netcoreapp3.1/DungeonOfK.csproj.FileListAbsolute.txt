@@ -1,0 +1,13 @@
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\bin\Debug\netcoreapp3.1\DungeonOfK.exe
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\bin\Debug\netcoreapp3.1\DungeonOfK.deps.json
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\bin\Debug\netcoreapp3.1\DungeonOfK.runtimeconfig.json
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\bin\Debug\netcoreapp3.1\DungeonOfK.runtimeconfig.dev.json
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\bin\Debug\netcoreapp3.1\DungeonOfK.dll
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\bin\Debug\netcoreapp3.1\DungeonOfK.pdb
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\obj\Debug\netcoreapp3.1\DungeonOfK.AssemblyInfoInputs.cache
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\obj\Debug\netcoreapp3.1\DungeonOfK.AssemblyInfo.cs
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\obj\Debug\netcoreapp3.1\DungeonOfK.csproj.CoreCompileInputs.cache
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\obj\Debug\netcoreapp3.1\DungeonOfK.dll
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\obj\Debug\netcoreapp3.1\DungeonOfK.pdb
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\obj\Debug\netcoreapp3.1\DungeonOfK.genruntimeconfig.cache
+C:\Users\kwaters\dev\DungeonOfK\DungeonOfK\obj\Debug\netcoreapp3.1\DungeonOfK.csprojAssemblyReference.cache
